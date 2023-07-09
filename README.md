@@ -5,6 +5,9 @@
 
 
 ![Logo](https://github.com/Yesid-Robayo/Yesid-Robayo/assets/114313044/466fe60f-ff53-46bc-a151-252cb478b296)
+
+Investiga+ es una aplicación avanzada para control de inventario, gestión de proyectos, usuarios e historiales en semilleros. Ofrece un control preciso sobre tus semillas, proyectos, usuarios y acciones en el sistema.
+Ingresa al repocitorio de la aplicacion en el siguiente enlace :
 https://github.com/Yesid-Robayo/InvestigaPlus
 
 ## 🌐 Redes Sociales:

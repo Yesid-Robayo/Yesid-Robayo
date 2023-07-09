@@ -1,6 +1,11 @@
 # 💫 Sobre Mi:
 👨‍💻 Soy un estudiante de Ingeniería de Software apasionado por el desarrollo de aplicaciones. Me encuentro trabajando en la aplicación InvestigaPlus, donde constantemente busco mejorarla y brindar una experiencia excepcional a los usuarios.<br><br>⚙️ Me encanta adquirir nuevos conocimientos y mantenerme actualizado en las últimas tecnologías y tendencias en el campo de la programación. Disfruto de la programación y la oportunidad de convertir ideas en soluciones prácticas.<br><br> 💡 Mi objetivo es crear software de calidad que resuelva problemas reales y aporte valor a las personas. Siempre estoy en busca de la excelencia y me esfuerzo por destacar en lo que hago.<br><br>⭐️ Estoy abierto a aprender y colaborar con otros desarrolladores. Disfruto formar parte de proyectos emocionantes y contribuir con mi experiencia y creatividad.
 
+# 💫 Proyectos Actules:
+
+
+![Logo](https://github.com/Yesid-Robayo/Yesid-Robayo/assets/114313044/466fe60f-ff53-46bc-a151-252cb478b296)
+https://github.com/Yesid-Robayo/InvestigaPlus
 
 ## 🌐 Redes Sociales:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/yesid11) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/22196843) 

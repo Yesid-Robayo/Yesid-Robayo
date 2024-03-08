@@ -30,7 +30,7 @@ Ingresa al repositorio de la aplicacion en el siguiente enlace :
 https://github.com/Yesid-Robayo/CodeFilmDev
 
 ## 🌐 Redes Sociales:
-[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/yesid_11) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/yesid11)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/yesid11)
 
 ## 💻 Tecnologías:
 

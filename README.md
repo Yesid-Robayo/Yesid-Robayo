@@ -1,6 +1,6 @@
 # ¡Bienvenido a mi perfil de GitHub!
 
-# 💫 SobreMi:
+# 💫 Sobre Mi:
 
 👨‍💻 **Bienvenido a Mi Perfil**<br>
 Soy Yesid, un estudiante de Ingeniería de Software dedicado y entusiasta. Mi trayectoria hasta ahora ha sido una emocionante exploración en el desarrollo y mejora continua de aplicaciones, desarrollando aplicaciones y páginas web donde aplico todo mi conocimiento y pasión para enriquecer la experiencia del usuario.<br><br>

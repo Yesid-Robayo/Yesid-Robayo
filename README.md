@@ -14,7 +14,7 @@ Mi meta es desarrollar software que no solo solucione problemas complejos, sino 
 Creo firmemente en el poder de la colaboración para el desarrollo de proyectos exitosos. Estoy abierto a aprender de otros y compartir mi conocimiento, buscando siempre oportunidades para trabajar en equipo en proyectos que desafíen los límites de la tecnología actual.
 
 ## 💫 Proyectos Actuales:
-
+<br/>
 <div align="center">
   <img src="https://github.com/Yesid-Robayo/Yesid-Robayo/assets/114313044/6b0f150e-e56f-4aba-a7d9-292db55bb06e" alt="CodeStock" />
 </div>
@@ -26,6 +26,8 @@ CodeStock es una plataforma integral diseñada para conectar a clientes y empres
 Backend: [https://github.com/Yesid-Robayo/codeStockBackEnd](https://github.com/Yesid-Robayo/codeStockBackEnd)
 
 Frontend: [https://github.com/Yesid-Robayo/codeStockFrontEnd](https://github.com/Yesid-Robayo/codeStockFrontEnd)
+<br/>
+<br/>
 
 <div align="center">
   <img src="https://github.com/Yesid-Robayo/Yesid-Robayo/assets/114313044/f57206f6-ca96-40db-8bb6-7062cafdea9a" alt="Design 3" />
@@ -36,6 +38,8 @@ CodeFilmDev es una innovadora plataforma de interacción social para aficionados
 **Ingresa al repositorio de la aplicación en el siguiente enlace:**
 
 [https://github.com/Yesid-Robayo/CodeFilmDev](https://github.com/Yesid-Robayo/CodeFilmDev)
+<br/>
+<br/>
 
 <div align="center">
   <img src="https://github.com/Yesid-Robayo/Yesid-Robayo/assets/114313044/1b4aedc3-961f-4189-9266-e5f04cf1d2c7" alt="InvestigaPlus" />

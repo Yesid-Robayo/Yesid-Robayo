@@ -15,7 +15,9 @@ Creo firmemente en el poder de la colaboración para el desarrollo de proyectos 
 
 ## 💫 Proyectos Actuales:
 
-![CodeStock](https://github.com/Yesid-Robayo/Yesid-Robayo/assets/114313044/6b0f150e-e56f-4aba-a7d9-292db55bb06e)
+<div align="center">
+  <img src="https://github.com/Yesid-Robayo/Yesid-Robayo/assets/114313044/6b0f150e-e56f-4aba-a7d9-292db55bb06e" alt="CodeStock" />
+</div>
 
 CodeStock es una plataforma integral diseñada para conectar a clientes y empresas, facilitando la oferta y gestión de productos y servicios. El proyecto consta de un backend desarrollado en Java con Spring Boot y un frontend construido con ReactJS.
 
@@ -25,7 +27,9 @@ Backend: [https://github.com/Yesid-Robayo/codeStockBackEnd](https://github.com/Y
 
 Frontend: [https://github.com/Yesid-Robayo/codeStockFrontEnd](https://github.com/Yesid-Robayo/codeStockFrontEnd)
 
-![Design 3](https://github.com/Yesid-Robayo/Yesid-Robayo/assets/114313044/f57206f6-ca96-40db-8bb6-7062cafdea9a)
+<div align="center">
+  <img src="https://github.com/Yesid-Robayo/Yesid-Robayo/assets/114313044/f57206f6-ca96-40db-8bb6-7062cafdea9a" alt="Design 3" />
+</div>
 
 CodeFilmDev es una innovadora plataforma de interacción social para aficionados al cine, donde los usuarios pueden subir videos, dejar reseñas y explorar una amplia gama de categorías de películas. Desarrollado con el usuario final en mente, este proyecto está diseñado para ofrecer una experiencia dinámica y atractiva.
 
@@ -33,7 +37,9 @@ CodeFilmDev es una innovadora plataforma de interacción social para aficionados
 
 [https://github.com/Yesid-Robayo/CodeFilmDev](https://github.com/Yesid-Robayo/CodeFilmDev)
 
-![252122166-466fe60f-ff53-46bc-a151-252cb478b296](https://github.com/Yesid-Robayo/Yesid-Robayo/assets/114313044/1b4aedc3-961f-4189-9266-e5f04cf1d2c7)
+<div align="center">
+  <img src="https://github.com/Yesid-Robayo/Yesid-Robayo/assets/114313044/1b4aedc3-961f-4189-9266-e5f04cf1d2c7" alt="InvestigaPlus" />
+</div>
 
 InvestigaPlus es una aplicación avanzada para control de inventario, gestión de proyectos, usuarios e historiales en semilleros. Ofrece un control preciso sobre tus semillas, proyectos, usuarios y acciones en el sistema.
 

@@ -18,6 +18,8 @@ Creo firmemente en el poder de la colaboración para el desarrollo de proyectos 
 <div align="center">
   <img src="https://github.com/Yesid-Robayo/Yesid-Robayo/assets/114313044/6b0f150e-e56f-4aba-a7d9-292db55bb06e" alt="CodeStock" />
 </div>
+<br/>
+<br/>
 
 CodeStock es una plataforma integral diseñada para conectar a clientes y empresas, facilitando la oferta y gestión de productos y servicios. El proyecto consta de un backend desarrollado en Java con Spring Boot y un frontend construido con ReactJS.
 
@@ -32,6 +34,8 @@ Frontend: [https://github.com/Yesid-Robayo/codeStockFrontEnd](https://github.com
 <div align="center">
   <img src="https://github.com/Yesid-Robayo/Yesid-Robayo/assets/114313044/f57206f6-ca96-40db-8bb6-7062cafdea9a" alt="Design 3" />
 </div>
+<br/>
+<br/>
 
 CodeFilmDev es una innovadora plataforma de interacción social para aficionados al cine, donde los usuarios pueden subir videos, dejar reseñas y explorar una amplia gama de categorías de películas. Desarrollado con el usuario final en mente, este proyecto está diseñado para ofrecer una experiencia dinámica y atractiva.
 
@@ -44,6 +48,8 @@ CodeFilmDev es una innovadora plataforma de interacción social para aficionados
 <div align="center">
   <img src="https://github.com/Yesid-Robayo/Yesid-Robayo/assets/114313044/1b4aedc3-961f-4189-9266-e5f04cf1d2c7" alt="InvestigaPlus" />
 </div>
+<br/>
+<br/>
 
 InvestigaPlus es una aplicación avanzada para control de inventario, gestión de proyectos, usuarios e historiales en semilleros. Ofrece un control preciso sobre tus semillas, proyectos, usuarios y acciones en el sistema.
 

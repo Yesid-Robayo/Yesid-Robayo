@@ -29,6 +29,14 @@ CodeFilmDev es una innovadora plataforma de interacción social para aficionados
 Ingresa al repositorio de la aplicacion en el siguiente enlace :
 https://github.com/Yesid-Robayo/CodeFilmDev
 
+![image](https://github.com/Yesid-Robayo/Yesid-Robayo/assets/114313044/31f5029b-2686-4c96-b0b7-71fa2dac1ac1)
+
+CodeStock es una plataforma integral diseñada para conectar a clientes y empresas, facilitando la oferta y gestión de productos y servicios. El proyecto consta de un backend desarrollado en Java con Spring Boot y un frontend construido con ReactJS.
+
+Repositorios
+Backend: https://github.com/Yesid-Robayo/codeStockBackEnd
+Frontend: https://github.com/Yesid-Robayo/codeStockFrontEnd
+
 ## 🌐 Redes Sociales:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/yesid11)
 

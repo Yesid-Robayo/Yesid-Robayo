@@ -13,33 +13,33 @@ Mi meta es desarrollar software que no solo solucione problemas complejos, sino 
 💼 **Colaboración y Desarrollo Profesional**<br>
 Creo firmemente en el poder de la colaboración para el desarrollo de proyectos exitosos. Estoy abierto a aprender de otros y compartir mi conocimiento, buscando siempre oportunidades para trabajar en equipo en proyectos que desafíen los límites de la tecnología actual.
 
-## 💫 Proyectos Actules:
+## 💫 Proyectos Actuales:
 
 ![CodeStock](https://github.com/Yesid-Robayo/Yesid-Robayo/assets/114313044/6b0f150e-e56f-4aba-a7d9-292db55bb06e)
 
 CodeStock es una plataforma integral diseñada para conectar a clientes y empresas, facilitando la oferta y gestión de productos y servicios. El proyecto consta de un backend desarrollado en Java con Spring Boot y un frontend construido con ReactJS.
 
-Repositorios
+**Repositorios:**
 
-Backend: https://github.com/Yesid-Robayo/codeStockBackEnd
+Backend: [https://github.com/Yesid-Robayo/codeStockBackEnd](https://github.com/Yesid-Robayo/codeStockBackEnd)
 
-Frontend: https://github.com/Yesid-Robayo/codeStockFrontEnd
-
+Frontend: [https://github.com/Yesid-Robayo/codeStockFrontEnd](https://github.com/Yesid-Robayo/codeStockFrontEnd)
 
 ![Design 3](https://github.com/Yesid-Robayo/Yesid-Robayo/assets/114313044/f57206f6-ca96-40db-8bb6-7062cafdea9a)
 
-CodeFilmDev es una innovadora plataforma de interacción social para aficionados al cine, donde los usuarios pueden subir videos, dejar reseñas y explorar una amplia gama de categorías de películas. Desarrollado con el usuario final en mente, este proyecto está diseñado para ofrecer una experiencia dinámica y atractiva
+CodeFilmDev es una innovadora plataforma de interacción social para aficionados al cine, donde los usuarios pueden subir videos, dejar reseñas y explorar una amplia gama de categorías de películas. Desarrollado con el usuario final en mente, este proyecto está diseñado para ofrecer una experiencia dinámica y atractiva.
 
-Ingresa al repositorio de la aplicacion en el siguiente enlace :
-https://github.com/Yesid-Robayo/CodeFilmDev
+**Ingresa al repositorio de la aplicación en el siguiente enlace:**
 
+[https://github.com/Yesid-Robayo/CodeFilmDev](https://github.com/Yesid-Robayo/CodeFilmDev)
 
 ![252122166-466fe60f-ff53-46bc-a151-252cb478b296](https://github.com/Yesid-Robayo/Yesid-Robayo/assets/114313044/1b4aedc3-961f-4189-9266-e5f04cf1d2c7)
 
 InvestigaPlus es una aplicación avanzada para control de inventario, gestión de proyectos, usuarios e historiales en semilleros. Ofrece un control preciso sobre tus semillas, proyectos, usuarios y acciones en el sistema.
 
-Ingresa al repositorio de la aplicacion en el siguiente enlace :
-https://github.com/Yesid-Robayo/InvestigaPlus
+**Ingresa al repositorio de la aplicación en el siguiente enlace:**
+
+[https://github.com/Yesid-Robayo/InvestigaPlus](https://github.com/Yesid-Robayo/InvestigaPlus)
 
 ## 🌐 Redes Sociales:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/yesid11)

@@ -13,7 +13,7 @@ Mi meta es desarrollar software que no solo solucione problemas complejos, sino 
 💼 **Colaboración y Desarrollo Profesional**<br>
 Creo firmemente en el poder de la colaboración para el desarrollo de proyectos exitosos. Estoy abierto a aprender de otros y compartir mi conocimiento, buscando siempre oportunidades para trabajar en equipo en proyectos que desafíen los límites de la tecnología actual.
 
-## 💫 Proyectos Actuales:
+## 💫 Algunos Actuales:
 <br/>
 <div align="center">
   <img src="https://github.com/Yesid-Robayo/Yesid-Robayo/assets/114313044/6b0f150e-e56f-4aba-a7d9-292db55bb06e" alt="CodeStock" />
